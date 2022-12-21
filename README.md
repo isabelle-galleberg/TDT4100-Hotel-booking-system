@@ -1,2 +1,2 @@
-# TDT4100-hotel-booking-system
-Dette prosjektet er tilknyttet emnet TDT4100 Objektorientert programmering. 
+# Hotel Booking System
+This project is created in TDT4100 Objektorientert programmering. 
